@@ -1,0 +1,126 @@
+30-04-2018 09:51:36.646 | DEBUG | main       | .aibar.base.BaseTest:35    | config file loaded.
+30-04-2018 09:51:36.646 | DEBUG | main       | .aibar.base.BaseTest:37    | objectRepository file loaded.
+30-04-2018 09:51:36.716 | DEBUG | main       | .aibar.base.BaseTest:50    | chrome launched.
+30-04-2018 09:52:03.001 | DEBUG | main       | .aibar.base.BaseTest:63    | navigated to: http://www.way2automation.com/angularjs-protractor/banking/#/login
+30-04-2018 09:52:04.324 | DEBUG | main       | .testcases.LoginTest:12    | inside LoginAsBankManager.
+30-04-2018 09:52:11.556 | DEBUG | main       | .testcases.LoginTest:19    | LoginAsBankManager successfully executed.
+30-04-2018 09:52:12.768 | DEBUG | main       | .aibar.base.BaseTest:83    | test execution completed.
+30-04-2018 09:59:00.003 | DEBUG | main       | .aibar.base.BaseTest:35    | config file loaded.
+30-04-2018 09:59:00.022 | DEBUG | main       | .aibar.base.BaseTest:37    | objectRepository file loaded.
+30-04-2018 09:59:00.120 | DEBUG | main       | .aibar.base.BaseTest:50    | chrome launched.
+30-04-2018 09:59:12.073 | DEBUG | main       | .aibar.base.BaseTest:63    | navigated to: http://www.way2automation.com/angularjs-protractor/banking/#/login
+30-04-2018 09:59:13.309 | DEBUG | main       | BankManagerLoginTest:12    | inside loginAsBankManager.
+30-04-2018 09:59:13.764 | DEBUG | main       | BankManagerLoginTest:15    | loginAsBankManager successfully executed.
+30-04-2018 09:59:14.768 | DEBUG | main       | .aibar.base.BaseTest:83    | test execution completed.
+30-04-2018 11:00:09.363 | DEBUG | main       | .aibar.base.BaseTest:35    | config file loaded.
+30-04-2018 11:00:09.393 | DEBUG | main       | .aibar.base.BaseTest:37    | objectRepository file loaded.
+30-04-2018 11:00:09.533 | DEBUG | main       | .aibar.base.BaseTest:50    | chrome launched.
+30-04-2018 11:01:19.910 | DEBUG | main       | .aibar.base.BaseTest:63    | navigated to: http://www.way2automation.com/angularjs-protractor/banking/#/login
+30-04-2018 11:01:21.382 | DEBUG | main       | BankManagerLoginTest:12    | inside loginAsBankManager.
+30-04-2018 11:01:40.030 | DEBUG | main       | BankManagerLoginTest:15    | loginAsBankManager successfully executed.
+30-04-2018 11:01:41.709 | DEBUG | main       | .aibar.base.BaseTest:83    | test execution completed.
+30-04-2018 11:06:21.319 | DEBUG | main       | .aibar.base.BaseTest:35    | config file loaded.
+30-04-2018 11:06:21.329 | DEBUG | main       | .aibar.base.BaseTest:37    | objectRepository file loaded.
+30-04-2018 11:06:21.389 | DEBUG | main       | .aibar.base.BaseTest:50    | chrome launched.
+30-04-2018 11:06:30.726 | DEBUG | main       | .aibar.base.BaseTest:63    | navigated to: http://www.way2automation.com/angularjs-protractor/banking/#/login
+30-04-2018 11:06:31.894 | DEBUG | main       | BankManagerLoginTest:12    | inside loginAsBankManager.
+30-04-2018 11:06:32.346 | DEBUG | main       | BankManagerLoginTest:15    | loginAsBankManager successfully executed.
+30-04-2018 11:06:34.894 | DEBUG | main       | .aibar.base.BaseTest:83    | test execution completed.
+30-04-2018 11:07:40.758 | DEBUG | main       | .aibar.base.BaseTest:35    | config file loaded.
+30-04-2018 11:07:40.768 | DEBUG | main       | .aibar.base.BaseTest:37    | objectRepository file loaded.
+30-04-2018 11:07:40.838 | DEBUG | main       | .aibar.base.BaseTest:50    | chrome launched.
+30-04-2018 11:07:49.577 | DEBUG | main       | .aibar.base.BaseTest:63    | navigated to: http://www.way2automation.com/angularjs-protractor/banking/#/login
+30-04-2018 11:07:50.742 | DEBUG | main       | BankManagerLoginTest:12    | inside loginAsBankManager.
+30-04-2018 11:07:51.164 | DEBUG | main       | BankManagerLoginTest:15    | loginAsBankManager successfully executed.
+30-04-2018 11:07:52.836 | DEBUG | main       | .aibar.base.BaseTest:83    | test execution completed.
+30-04-2018 11:10:44.955 | DEBUG | main       | .aibar.base.BaseTest:35    | config file loaded.
+30-04-2018 11:10:44.965 | DEBUG | main       | .aibar.base.BaseTest:37    | objectRepository file loaded.
+30-04-2018 11:10:45.025 | DEBUG | main       | .aibar.base.BaseTest:50    | chrome launched.
+30-04-2018 11:10:59.353 | DEBUG | main       | .aibar.base.BaseTest:63    | navigated to: http://www.way2automation.com/angularjs-protractor/banking/#/login
+30-04-2018 11:11:00.522 | DEBUG | main       | BankManagerLoginTest:12    | inside loginAsBankManager.
+30-04-2018 11:11:00.950 | DEBUG | main       | BankManagerLoginTest:15    | loginAsBankManager successfully executed.
+30-04-2018 11:11:03.251 | DEBUG | main       | .aibar.base.BaseTest:83    | test execution completed.
+30-04-2018 11:12:38.906 | DEBUG | main       | .aibar.base.BaseTest:35    | config file loaded.
+30-04-2018 11:12:38.906 | DEBUG | main       | .aibar.base.BaseTest:37    | objectRepository file loaded.
+30-04-2018 11:12:38.956 | DEBUG | main       | .aibar.base.BaseTest:50    | chrome launched.
+30-04-2018 11:12:48.654 | DEBUG | main       | .aibar.base.BaseTest:63    | navigated to: http://www.way2automation.com/angularjs-protractor/banking/#/login
+30-04-2018 11:12:49.803 | DEBUG | main       | BankManagerLoginTest:12    | inside loginAsBankManager.
+30-04-2018 11:12:50.219 | DEBUG | main       | BankManagerLoginTest:15    | loginAsBankManager successfully executed.
+30-04-2018 11:12:51.887 | DEBUG | main       | .aibar.base.BaseTest:83    | test execution completed.
+30-04-2018 11:15:58.334 | DEBUG | main       | .aibar.base.BaseTest:35    | config file loaded.
+30-04-2018 11:15:58.334 | DEBUG | main       | .aibar.base.BaseTest:37    | objectRepository file loaded.
+30-04-2018 11:15:58.394 | DEBUG | main       | .aibar.base.BaseTest:50    | chrome launched.
+30-04-2018 11:16:10.838 | DEBUG | main       | .aibar.base.BaseTest:63    | navigated to: http://www.way2automation.com/angularjs-protractor/banking/#/login
+30-04-2018 11:19:25.928 | DEBUG | main       | .aibar.base.BaseTest:35    | config file loaded.
+30-04-2018 11:19:25.935 | DEBUG | main       | .aibar.base.BaseTest:37    | objectRepository file loaded.
+30-04-2018 11:19:25.972 | DEBUG | main       | .aibar.base.BaseTest:50    | chrome launched.
+30-04-2018 11:19:36.219 | DEBUG | main       | .aibar.base.BaseTest:63    | navigated to: http://www.way2automation.com/angularjs-protractor/banking/#/login
+30-04-2018 11:19:37.385 | DEBUG | main       | BankManagerLoginTest:12    | inside loginAsBankManager.
+30-04-2018 11:19:37.804 | DEBUG | main       | BankManagerLoginTest:15    | loginAsBankManager successfully executed.
+30-04-2018 11:19:40.708 | DEBUG | main       | .aibar.base.BaseTest:83    | test execution completed.
+30-04-2018 11:21:42.802 | DEBUG | main       | .aibar.base.BaseTest:35    | config file loaded.
+30-04-2018 11:21:42.802 | DEBUG | main       | .aibar.base.BaseTest:37    | objectRepository file loaded.
+30-04-2018 11:21:42.852 | DEBUG | main       | .aibar.base.BaseTest:50    | chrome launched.
+30-04-2018 11:21:54.747 | DEBUG | main       | .aibar.base.BaseTest:63    | navigated to: http://www.way2automation.com/angularjs-protractor/banking/#/login
+30-04-2018 11:21:55.886 | DEBUG | main       | BankManagerLoginTest:12    | inside loginAsBankManager.
+30-04-2018 11:21:56.578 | DEBUG | main       | BankManagerLoginTest:15    | loginAsBankManager successfully executed.
+30-04-2018 11:21:58.806 | DEBUG | main       | .aibar.base.BaseTest:83    | test execution completed.
+30-04-2018 11:29:07.444 | DEBUG | main       | .aibar.base.BaseTest:35    | config file loaded.
+30-04-2018 11:29:07.444 | DEBUG | main       | .aibar.base.BaseTest:37    | objectRepository file loaded.
+30-04-2018 11:33:23.270 | DEBUG | main       | .aibar.base.BaseTest:35    | config file loaded.
+30-04-2018 11:33:23.270 | DEBUG | main       | .aibar.base.BaseTest:37    | objectRepository file loaded.
+30-04-2018 11:35:29.503 | DEBUG | main       | .aibar.base.BaseTest:35    | config file loaded.
+30-04-2018 11:35:29.511 | DEBUG | main       | .aibar.base.BaseTest:37    | objectRepository file loaded.
+30-04-2018 11:46:28.791 | DEBUG | main       | .aibar.base.BaseTest:35    | config file loaded.
+30-04-2018 11:46:28.802 | DEBUG | main       | .aibar.base.BaseTest:37    | objectRepository file loaded.
+30-04-2018 11:48:22.551 | DEBUG | main       | .aibar.base.BaseTest:35    | config file loaded.
+30-04-2018 11:48:22.558 | DEBUG | main       | .aibar.base.BaseTest:37    | objectRepository file loaded.
+30-04-2018 11:48:22.622 | DEBUG | main       | .aibar.base.BaseTest:50    | chrome launched.
+30-04-2018 11:49:03.059 | DEBUG | main       | .aibar.base.BaseTest:63    | navigated to: http://www.way2automation.com/angularjs-protractor/banking/#/login
+30-04-2018 11:49:04.417 | DEBUG | main       | BankManagerLoginTest:12    | inside loginAsBankManager.
+30-04-2018 11:49:09.889 | DEBUG | main       | BankManagerLoginTest:15    | loginAsBankManager successfully executed.
+30-04-2018 11:49:12.571 | DEBUG | main       | .aibar.base.BaseTest:83    | test execution completed.
+30-04-2018 12:17:30.357 | DEBUG | main       | .aibar.base.BaseTest:37    | config file loaded.
+30-04-2018 12:17:30.381 | DEBUG | main       | .aibar.base.BaseTest:39    | objectRepository file loaded.
+30-04-2018 12:17:30.507 | DEBUG | main       | .aibar.base.BaseTest:59    | chrome launched.
+30-04-2018 12:18:09.182 | DEBUG | main       | .aibar.base.BaseTest:72    | navigated to: http://www.way2automation.com/angularjs-protractor/banking/#/login
+30-04-2018 12:18:10.527 | DEBUG | main       | BankManagerLoginTest:12    | inside loginAsBankManager.
+30-04-2018 12:18:22.908 | DEBUG | main       | BankManagerLoginTest:15    | loginAsBankManager successfully executed.
+30-04-2018 12:18:30.664 | DEBUG | main       | .aibar.base.BaseTest:92    | test execution completed.
+30-04-2018 12:19:50.377 | DEBUG | main       | .aibar.base.BaseTest:37    | config file loaded.
+30-04-2018 12:19:50.382 | DEBUG | main       | .aibar.base.BaseTest:39    | objectRepository file loaded.
+30-04-2018 12:20:27.475 | DEBUG | main       | .aibar.base.BaseTest:37    | config file loaded.
+30-04-2018 12:20:27.482 | DEBUG | main       | .aibar.base.BaseTest:39    | objectRepository file loaded.
+30-04-2018 12:21:24.754 | DEBUG | main       | .aibar.base.BaseTest:37    | config file loaded.
+30-04-2018 12:21:24.759 | DEBUG | main       | .aibar.base.BaseTest:39    | objectRepository file loaded.
+30-04-2018 12:28:12.938 | DEBUG | main       | .aibar.base.BaseTest:38    | config file loaded.
+30-04-2018 12:28:12.954 | DEBUG | main       | .aibar.base.BaseTest:40    | objectRepository file loaded.
+30-04-2018 12:37:33.255 | DEBUG | main       | .aibar.base.BaseTest:38    | config file loaded.
+30-04-2018 12:37:33.302 | DEBUG | main       | .aibar.base.BaseTest:40    | objectRepository file loaded.
+30-04-2018 12:42:05.470 | DEBUG | main       | .aibar.base.BaseTest:38    | config file loaded.
+30-04-2018 12:42:05.501 | DEBUG | main       | .aibar.base.BaseTest:40    | objectRepository file loaded.
+30-04-2018 12:42:05.798 | DEBUG | main       | .aibar.base.BaseTest:54    | chrome launched.
+30-04-2018 13:05:48.126 | DEBUG | main       | .aibar.base.BaseTest:38    | config file loaded.
+30-04-2018 13:05:48.132 | DEBUG | main       | .aibar.base.BaseTest:40    | objectRepository file loaded.
+30-04-2018 13:05:48.328 | DEBUG | main       | .aibar.base.BaseTest:54    | chrome launched.
+30-04-2018 13:06:10.362 | DEBUG | main       | .aibar.base.BaseTest:67    | navigated to: http://www.way2automation.com/angularjs-protractor/banking/#/login
+30-04-2018 13:06:11.674 | DEBUG | main       | BankManagerLoginTest:12    | inside loginAsBankManager.
+30-04-2018 13:06:12.372 | DEBUG | main       | BankManagerLoginTest:15    | loginAsBankManager successfully executed.
+30-04-2018 13:06:13.653 | DEBUG | main       | .aibar.base.BaseTest:87    | test execution completed.
+30-04-2018 13:07:06.560 | DEBUG | main       | .aibar.base.BaseTest:38    | config file loaded.
+30-04-2018 13:07:06.568 | DEBUG | main       | .aibar.base.BaseTest:40    | objectRepository file loaded.
+30-04-2018 13:07:06.662 | DEBUG | main       | .aibar.base.BaseTest:54    | chrome launched.
+30-04-2018 13:07:20.387 | DEBUG | main       | .aibar.base.BaseTest:67    | navigated to: http://www.way2automation.com/angularjs-protractor/banking/#/login
+30-04-2018 13:07:21.540 | DEBUG | main       | BankManagerLoginTest:12    | inside loginAsBankManager.
+30-04-2018 13:07:21.968 | DEBUG | main       | BankManagerLoginTest:15    | loginAsBankManager successfully executed.
+30-04-2018 13:07:26.062 | DEBUG | main       | .aibar.base.BaseTest:87    | test execution completed.
+30-04-2018 13:12:00.662 | DEBUG | main       | .aibar.base.BaseTest:38    | config file loaded.
+30-04-2018 13:12:00.682 | DEBUG | main       | .aibar.base.BaseTest:40    | objectRepository file loaded.
+30-04-2018 13:12:23.874 | DEBUG | main       | .aibar.base.BaseTest:69    | navigated to: http://www.way2automation.com/angularjs-protractor/banking/#/login
+30-04-2018 13:12:25.507 | DEBUG | main       | BankManagerLoginTest:12    | inside loginAsBankManager.
+30-04-2018 13:12:31.202 | DEBUG | main       | BankManagerLoginTest:15    | loginAsBankManager successfully executed.
+30-04-2018 13:12:34.045 | DEBUG | main       | .aibar.base.BaseTest:89    | test execution completed.
+30-04-2018 13:32:09.053 | DEBUG | main       | .aibar.base.BaseTest:38    | config file loaded.
+30-04-2018 13:32:09.059 | DEBUG | main       | .aibar.base.BaseTest:40    | objectRepository file loaded.
+30-04-2018 13:34:29.744 | DEBUG | main       | .aibar.base.BaseTest:38    | config file loaded.
+30-04-2018 13:34:29.750 | DEBUG | main       | .aibar.base.BaseTest:40    | objectRepository file loaded.

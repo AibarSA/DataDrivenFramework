@@ -1,0 +1,20 @@
+05-05-2018 09:14:51.881 | DEBUG | main       | .aibar.base.BaseTest:45    | config file loaded.
+05-05-2018 09:14:52.013 | DEBUG | main       | .aibar.base.BaseTest:47    | objectRepository file loaded.
+05-05-2018 09:22:29.710 | DEBUG | main       | .aibar.base.BaseTest:45    | config file loaded.
+05-05-2018 09:22:29.726 | DEBUG | main       | .aibar.base.BaseTest:47    | objectRepository file loaded.
+05-05-2018 09:23:09.943 | DEBUG | main       | .aibar.base.BaseTest:77    | navigated to: http://www.way2automation.com/angularjs-protractor/banking/#/login
+05-05-2018 09:23:12.928 | DEBUG | main       | BankManagerLoginTest:12    | inside loginAsBankManager.
+05-05-2018 09:23:16.951 | DEBUG | main       | BankManagerLoginTest:15    | loginAsBankManager successfully executed.
+05-05-2018 09:23:20.387 | DEBUG | main       | .aibar.base.BaseTest:98    | test execution completed.
+05-05-2018 13:29:02.174 | DEBUG | main       | .aibar.base.BaseTest:45    | config file loaded.
+05-05-2018 13:29:02.204 | DEBUG | main       | .aibar.base.BaseTest:47    | objectRepository file loaded.
+05-05-2018 13:30:12.157 | DEBUG | main       | .aibar.base.BaseTest:77    | navigated to: http://www.way2automation.com/angularjs-protractor/banking/#/login
+05-05-2018 13:30:14.523 | DEBUG | main       | BankManagerLoginTest:12    | inside loginAsBankManager.
+05-05-2018 13:30:18.962 | DEBUG | main       | BankManagerLoginTest:15    | loginAsBankManager successfully executed.
+05-05-2018 13:30:21.885 | DEBUG | main       | .aibar.base.BaseTest:98    | test execution completed.
+05-05-2018 13:42:47.108 | DEBUG | main       | .aibar.base.BaseTest:45    | config file loaded.
+05-05-2018 13:42:47.118 | DEBUG | main       | .aibar.base.BaseTest:47    | objectRepository file loaded.
+05-05-2018 13:44:53.304 | DEBUG | main       | .aibar.base.BaseTest:45    | config file loaded.
+05-05-2018 13:44:53.317 | DEBUG | main       | .aibar.base.BaseTest:47    | objectRepository file loaded.
+05-05-2018 13:48:13.316 | DEBUG | main       | .aibar.base.BaseTest:77    | navigated to: https://www.expedia.com/
+05-05-2018 13:48:27.678 | DEBUG | main       | .aibar.base.BaseTest:98    | test execution completed.
